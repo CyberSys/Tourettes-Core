@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"		"Tourettes Core"
+	"version"	"Git"
+	"up_date"	"25/11/12"
+	"author_name"	"Dr. Matt"
+	"author_email"	"mattjeanes23@gmail.com"
+	"author_url"	"mattjeanes.com"
+	
+	"info"		"A crazy core that will swear for eternity."
+}
